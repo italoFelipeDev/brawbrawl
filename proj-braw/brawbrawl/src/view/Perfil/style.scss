@@ -1,0 +1,37 @@
+@import '../../../main.scss';
+
+.card-tiltle-st{
+    background-color:#16a596 ;
+    padding-bottom: 2px;
+    padding-top: 6px;
+}
+.card-tiltle-text{
+    text-align: center;
+}
+.card-body-st{
+    background-color: #898b8a ;
+}
+.badge-st{
+    margin-right: 5px;
+}
+.btn-st{
+    width: auto;
+    float: left;
+}
+.container-st{
+    margin-left: 0;
+}
+.card-st{
+    background-color: #393e46 ;
+    width:55%;
+    margin-right:2%;
+    float: left;
+}
+.image-st{
+    background-color: #222831;
+}
+
+.list-st{
+    position: flex;
+    float:top-right;
+}

@@ -1,0 +1,28 @@
+@import '../../../main.scss';
+.img-resize {
+    width:50px; /* you can use % */
+    height: 50px;
+    margin-right: 10px;
+}
+.badge-st-vt{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-body-st{
+    background-color:#898b8a;
+}
+.jumbotron-with-background {
+    color: #88f1e7;
+    background-color: #898b8a;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card-image{
+    background-image: url("../../assets/images/jumbo-rank.jpg");
+    background-size: cover;
+}
+.Jumbo{
+    margin-bottom: 25px;
+}

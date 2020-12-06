@@ -1,0 +1,28 @@
+$theme-colors: (
+  "primary": #16a596,
+  "secundary": #898b8a,
+  "danger": #690802
+);
+$cor1: #16a596;
+$cor2: #898b8a;
+$cor3: #f6f5f1;
+$cor4: #393e46; 
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column; // cannot use `inherit` to get the `.navbar`s value
+  padding-left: 40px;
+  margin-bottom: 0px;
+  list-style: none;
+
+  .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+body{
+  background-color: $cor4 ;
+}

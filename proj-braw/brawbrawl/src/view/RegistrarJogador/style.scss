@@ -1,0 +1,24 @@
+@import '../../../main.scss';
+
+.jumbotron-with-background {
+    color: #88f1e7;
+    background-color: #898b8a;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card-image{
+    background-image: url("../../assets/images/jumbo-match.jpg");
+    background-size: cover;
+}
+.Jumbo{
+    margin-bottom: 25px;
+}
+
+.input-st{
+    width: 500px;
+}
+.input-color{
+    background-color: #16a596;
+}

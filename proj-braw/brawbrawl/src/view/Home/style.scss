@@ -1,0 +1,14 @@
+@import '../../../main.scss';
+@import'../../assets/scss/colors.scss';
+
+.jumbotron-with-background {
+    color: #88f1e7;
+    background-color: #898b8a;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-image{
+    background-image: url("../../assets/images/jumbo.jpg");
+    background-size: cover;
+}
