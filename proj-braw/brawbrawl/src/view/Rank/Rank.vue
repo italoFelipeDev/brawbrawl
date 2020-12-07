@@ -19,12 +19,18 @@
 
 
         <!-- Rank -->
+
+        <!-- Card -->
         <div class="card card-body-st">
             <div class="card-body ">
+                <!-- Colocação -->
                 <span class="badge badge-primary badge-st">1º</span>
+                <!-- Imagem -->
                 <img class="img-resize" src="../../assets/images/wushang.png" alt="">
+                <!-- Nome -->
                 PLAYER
                 <span class="badge badge-primary badge-st-vt">VITORIAS:</span>
+                <!-- Vitorias -->
                 15
                 
             </div>

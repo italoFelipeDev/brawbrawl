@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- barra de navegação -->
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-primary">
         <router-link to='/'><img src="./assets/images/brawbrawl.png" width="120" height="30" alt=""></router-link>
@@ -23,7 +24,9 @@
       </nav>
     </div>
     <br>
+      <!-- Corpo da aplicação -->
     <body>
+        <!-- Router -->
        <router-view></router-view>
     </body>
    
